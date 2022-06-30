@@ -33,8 +33,8 @@ function About() {
 
           </div>
           <p>
-          Soy estudiante de la tecnicatura de “Desarrollo de Software”. Me apasiona la programación siempre estoy tratando de capacitarme día a día en los distintos lenguajes e 
-          herramientas que abarcan este mundo ya sea en Backend o Fronend acompañado de profesores, compañeros y amigos.
+          Soy estudiante de la tecnicatura de “Desarrollo de Software”. Me apasiona la programación y siempre estoy tratando de capacitarme e innovar en nuevas técnologías
+          que abarcan este mundo ya sea en Back-end o Front-end acompañado de profesores, compañeros y amigos.
           </p>
 
           <a href="https://www.linkedin.com/in/lorennzo-mu07/" className="btn-primary" target="_blank">
