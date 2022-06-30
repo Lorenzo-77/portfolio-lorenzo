@@ -21,14 +21,14 @@ function About() {
           <div className="about_cards"> 
             <article className="about_card">
                <FcKindle className="about_icon"/>
-              <h5>Expreciena</h5>
+              <h5>Experiencia</h5>
               <small>Universitaria</small>
             </article>
 
             <article className="about_card">
             <FcCommandLine className="about_icon"/>
               <h5>Proyectos</h5>
-              <small>10</small>
+              <small>11</small>
             </article>
 
           </div>
